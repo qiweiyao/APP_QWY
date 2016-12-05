@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     //github
+    NSLog(@"123");
 }
 
 
